@@ -1,6 +1,6 @@
 #!/bin/bash
 
-PROJ=_pogo-raid-bot
+PROJ=_utsubot
 
 git diff --ignore-space-change -U10 --no-prefix > $PROJ.diff
 git status > $PROJ.files.diff
