@@ -7,5 +7,5 @@
 
 	define('MAINTAINER', '@your_tg_username');
 	define('MAINTAINER_ID', 'your_tg_integer');
-	define('BOT_NAME', '@RaidPokemonBot');
+	define('BOT_NAME', '@utsubot');
 
