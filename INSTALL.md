@@ -25,7 +25,7 @@ Use https://www.miniwebtool.com/sha512-hash-generator/ and set `CONFIG_HASH` to 
 Create database named for your bot ID (first part of your TG bot token)
 Set database password to second part of your TG bot token
 Only allow localhost access
-Import `raid-pokemon-bot.sql` as default DB structure
+Import `utsubot.sql` as default DB structure
 
 ## Webhooks
 
